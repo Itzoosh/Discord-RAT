@@ -29,8 +29,8 @@ intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='.', intents=intents, help_command=None)
 
 config = {
-    'token': "%token%",
-    'server_id': '%id%'
+    'token': "MTE5MzE3NzM2OTk4NTQyMTQ1NA.GnRKZ2.qVEh4NI920LmbOuCesFCSYo0YHtafRO7s_cHpA",
+    'server_id': '1193179117013708852'
 }
 
 sessions = {}
